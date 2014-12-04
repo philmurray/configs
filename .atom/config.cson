@@ -1,0 +1,25 @@
+'global':
+  'editor':
+    'softTabs': false
+    'tabLength': 4
+    'fontSize': 15
+    'invisibles': {}
+  'exception-reporting':
+    'userId': '82800848-3fab-8f1a-809a-9840941bc5ae'
+  'welcome':
+    'showOnStartup': false
+  'bracket-matcher':
+    'wrapSelectionsInBrackets': false
+    'autocompleteSmartQuotes': false
+    'autocompleteBrackets': false
+  'whitespace':
+    'ignoreWhitespaceOnCurrentLine': false
+  'linter': {}
+  'atom-beautify':
+    '_analyticsUserId': 'f395b3b5-93f5-4c5d-9388-cb58e03fba33'
+    'beautifyEntireFileOnSave': false
+    'js_indent_with_tabs': true
+    'html_indent_char': '  '
+    'css_indent_Char': '  '
+    'html_indent_inner_html': true
+  'core': {}
