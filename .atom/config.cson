@@ -2,8 +2,7 @@
   'editor':
     'softTabs': false
     'tabLength': 4
-    'fontSize': 15
-    'invisibles': {}
+    'fontSize': 12
   'exception-reporting':
     'userId': '82800848-3fab-8f1a-809a-9840941bc5ae'
   'welcome':
@@ -14,7 +13,6 @@
     'autocompleteBrackets': false
   'whitespace':
     'ignoreWhitespaceOnCurrentLine': false
-  'linter': {}
   'atom-beautify':
     '_analyticsUserId': 'f395b3b5-93f5-4c5d-9388-cb58e03fba33'
     'beautifyEntireFileOnSave': false
@@ -22,4 +20,9 @@
     'html_indent_char': '  '
     'css_indent_Char': '  '
     'html_indent_inner_html': true
-  'core': {}
+  'git-blame':
+    'customCommitUrlTemplateString': 'https://stash.rd.rcg.local/projects/<%- project %>/repos/<%- repo %>/commits/<%- revision %>'
+    'ignoreWhiteSpaceDiffs': true
+    'useCustomUrlTemplateIfStandardRemotesFail': true
+  'autoclose-html': {}
+  'linter': {}
